@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="App" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
-    <option name="MAIN_CLASS_NAME" value="org.khaf.App" />
+    <option name="MAIN_CLASS_NAME" value="io.github.kh4f.App" />
     <module name="text-editor-app" />
     <method v="2">
       <option name="Make" enabled="true" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="org.khaf.App">
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="io.github.kh4f.App">
   <grid id="27dc6" binding="panelMain" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="10">
     <margin top="15" left="10" bottom="15" right="10"/>
     <constraints>

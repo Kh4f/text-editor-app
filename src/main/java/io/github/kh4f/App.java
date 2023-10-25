@@ -1,11 +1,10 @@
-package org.khaf;
+package io.github.kh4f;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 import java.awt.*;
 import java.awt.event.*;
-import io.github.kh4f.DoublyLinkedList;
 
 public class App extends JFrame {
     private JPanel panelMain;
